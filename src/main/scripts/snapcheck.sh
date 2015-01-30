@@ -12,7 +12,7 @@
 #		-required a text file that contains the snaps being upgraded (snapchecks.txt)
 #		-header.txt and footer.txt (both are used to form the HTML display, they also reference bootstrap by CDN)
 #		-there is no windows version currently
-# by Den Fong/Trevor Keppel-Jones Jan 30-2015
+#
 ##################################################################################################
 #variables
 rootdir=./target/snapresults
